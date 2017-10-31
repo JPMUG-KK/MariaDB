@@ -14,7 +14,7 @@ Query2,5,17,19 を書き換え
 
 MariaDB/hammerdb/hdb_tpch.tcl を HammerDBインストールディレクトリ配下の hdb_tpch.tcl と差し替える
 
-なお、ColumnStoreに対するTPC-H　データベース作成時エラーには未対応。
+なお、ColumnStoreに対するTPC-H　データベース作成エラーには未対応。
 一旦InnoDBでデータベース作成後、手動でColumnStore用データベースを作成すること。
 
 
